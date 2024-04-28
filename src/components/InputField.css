@@ -1,0 +1,36 @@
+/* form{
+    margin-top: 20%;
+} */
+
+.inputfield .addtask{
+    background-color: darkcyan;
+    margin-top: 20px;
+    margin-left: 25px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 10px 10px;
+    cursor: pointer;
+}
+
+.inputfield #task{
+    font: 20px;
+    margin: 40px 5px 0px 320px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    border: none;
+    border-radius: 5px;
+    padding: 15px;
+    width: 50%;
+ 
+}
+
+.inputfield .genselect{
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-left: 5px;
+}
+
+.inputfield .options{
+    padding: 10px;
+}
